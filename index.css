@@ -60,6 +60,12 @@ body {
   border-color: #e3a69f;
 }
 
+.btn-primary:active {
+  background-color: #e3a69f;
+  color: #96534b;
+  border-color: #e3a69f;
+}
+
 .btn-primary.disabled {
   background-color: #ccffe5a1;
   color: #96534b;
@@ -89,4 +95,12 @@ body {
 .navbar-brand:hover {
   color: #e3a69f;
   border-color: #96534b;
+}
+
+.img-fluid {
+  width: 60px;
+}
+
+.logo-contact {
+  width: 100%;
 }
