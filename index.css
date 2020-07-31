@@ -97,7 +97,10 @@ body {
   border-color: #96534b;
 }
 
-/* .navbar .img-fluid {
-  height: auto;
-  max-width: 40%;
-} */
+.img-fluid {
+  width: 60px;
+}
+
+.logo-contact {
+  width: 100%;
+}
