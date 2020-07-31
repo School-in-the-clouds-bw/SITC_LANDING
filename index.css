@@ -54,7 +54,7 @@ body {
   border-color: #96534b;
 }
 
-.btn-primary:onclick {
+.btn-primary:focus {
   background-color: #e3a69f;
   color: #96534b;
   border-color: #e3a69f;
