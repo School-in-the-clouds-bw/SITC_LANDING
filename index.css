@@ -19,7 +19,6 @@
 /* Padding below the footer and lighter body text */
 
 body {
-  padding-top: 3rem;
   padding-bottom: 3rem;
   color: #5a5a5a;
   background-image: url(https://storage.needpix.com/rsynced_images/cloud-2695355_1280.jpg);
@@ -59,4 +58,35 @@ body {
   background-color: #e3a69f;
   color: #96534b;
   border-color: #e3a69f;
+}
+
+.btn-primary.disabled {
+  background-color: #ccffe5a1;
+  color: #96534b;
+  border-color: #96534b;
+}
+
+.navbar {
+  background-color: #ccffe5;
+  color: #96534b;
+}
+
+.nav-link {
+  color: #96534b;
+  border-color: #96534b;
+}
+
+.nav-link:hover {
+  color: #e3a69f;
+  border-color: #96534b;
+}
+
+.navbar-brand {
+  color: #96534b;
+  border-color: #96534b;
+}
+
+.navbar-brand:hover {
+  color: #e3a69f;
+  border-color: #96534b;
 }
