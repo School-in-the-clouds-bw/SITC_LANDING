@@ -1,0 +1,92 @@
+
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      /* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+  background-image: url(https://storage.needpix.com/rsynced_images/cloud-2695355_1280.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+/* JumboTron
+-------------------------------------------------- */
+.jumbotron {
+  background-color: #ccffe5;
+  color: #96534b;
+  
+}
+.card{
+  background-color: #ccffe5;
+  color: #96534b;
+  font-weight: bold;
+}
+
+/* Buttons
+-------------------------------------------------- */
+.btn-primary {
+  background-color: #ccffe5;
+  color: #96534b;
+  border-color: #96534b;
+}
+
+.btn-primary:hover {
+  background-color: #96534b;
+  color: #e3a69f;
+  border-color: #96534b;
+}
+
+.btn-primary:focus {
+  background-color: #e3a69f;
+  color: #96534b;
+  border-color: #e3a69f;
+}
+
+.btn-primary.disabled {
+  background-color: #ccffe5a1;
+  color: #96534b;
+  border-color: #96534b;
+}
+
+.navbar {
+  background-color: #ccffe5;
+  color: #96534b;
+}
+
+.nav-link {
+  color: #96534b;
+  border-color: #96534b;
+}
+
+.nav-link:hover {
+  color: #e3a69f;
+  border-color: #96534b;
+}
+
+.navbar-brand {
+  color: #96534b;
+  border-color: #96534b;
+}
+
+.navbar-brand:hover {
+  color: #e3a69f;
+  border-color: #96534b;
+}
